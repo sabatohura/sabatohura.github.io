@@ -252,7 +252,9 @@ img{
 }
 .home__blob-img
 {
-    width: 170px;
+    width: 190px;
+    height: 100%;
+ 
 }
 .home__data{
     grid-column: 1/3 ;
@@ -275,7 +277,7 @@ img{
 
 }
 .home__scroll{
-   /* display: none; */
+   display: none;
 }
 .home__scroll-button
 {
@@ -512,7 +514,7 @@ img{
 {
     width: 60%;
 }
-.skill__penetration
+.skills__penetration
 {
     width: 50%;
 }
